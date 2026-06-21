@@ -1,5 +1,17 @@
 # 💫 About Me:
-# 👋 Hello, I'm Devika V P<br><br>💼 Junior Data Scientist<br><br>🎓 BCA Graduate<br><br>📊 Data Analytics & Business Intelligence Enthusiast<br><br>🐍 Skilled in Python, SQL, Excel, Power BI, and Tableau<br><br>🤖 Exploring Machine Learning and Data Science<br><br>📈 Passionate About Turning Data into Actionable Insights<br><br>📚 Continuous Learner and Problem Solver<br><br>🚀 Open to Opportunities in Data Science and Analytics<br><br><br>
+
+<h3>👋 Hello, I'm Devika V P</h3>
+
+<p>
+💼 Junior Data Scientist<br><br>
+🎓 BCA Graduate<br><br>
+📊 Data Analytics & Business Intelligence Enthusiast<br><br>
+🐍 Skilled in Python, SQL, Excel, Power BI, and Tableau<br><br>
+🤖 Exploring Machine Learning and Data Science<br><br>
+📈 Passionate About Turning Data into Actionable Insights<br><br>
+📚 Continuous Learner and Problem Solver<br><br>
+🚀 Open to Opportunities in Data Science and Analytics
+</p>
 
 
 ## 🌐 Socials:
